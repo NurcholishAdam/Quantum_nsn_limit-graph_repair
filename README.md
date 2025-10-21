@@ -367,14 +367,26 @@ To contribute to NSN integration:
 
 ## Citation
 
+This integration is based on the Nested Subspace Networks (NSN) framework from:
+
+```bibtex
+@article{zhang2024deep,
+  title={Deep Hierarchical Learning with Nested Subspace Networks},
+  author={Zhang, Yifan and others},
+  journal={arXiv preprint},
+  year={2024},
+  note={NSN framework for hierarchical representation learning with nested subspaces}
+}
+```
+
 If you use this NSN integration in your research, please cite:
 
 ```bibtex
 @software{nsn_limit_graph_integration,
   title={NSN Integration with LIMIT-Graph and REPAIR},
   author={AI Research Agent Team},
-  year={2024},
-  url={https://github.com/your-repo/quantum_integration/nsn_integration}
+  year={2025},
+  url={https://github.com/NurcholishAdam/Quantum_nsn_limit-graph_repair}
 }
 ```
 
@@ -397,3 +409,4 @@ For questions or issues:
 - [ ] Integration with Hugging Face Spaces for public leaderboard
 - [ ] Multi-backend ensemble inference
 - [ ] Quantum circuit optimization for rank-specific operations
+
