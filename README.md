@@ -374,7 +374,7 @@ This integration is based on the Nested Subspace Networks (NSN) framework from:
   title={Deep Hierarchical Learning with Nested Subspace Networks},
   author={Zhang, Yifan and others},
   journal={arXiv preprint},
-  year={2024},
+  year={2025},
   note={NSN framework for hierarchical representation learning with nested subspaces}
 }
 ```
@@ -409,4 +409,5 @@ For questions or issues:
 - [ ] Integration with Hugging Face Spaces for public leaderboard
 - [ ] Multi-backend ensemble inference
 - [ ] Quantum circuit optimization for rank-specific operations
+
 
