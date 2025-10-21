@@ -141,7 +141,7 @@ rank_results = {
 }
 
 submission = leaderboard.submit_edit(
-    challenge_id="multilingual_edit_2025",
+    challenge_id="multilingual_edit_2024",
     contributor_id="contributor_001",
     language="english",
     edit_description="Optimized factual correction",
@@ -149,10 +149,10 @@ submission = leaderboard.submit_edit(
 )
 
 # Get leaderboard
-rankings = leaderboard.get_leaderboard("multilingual_edit_2025")
+rankings = leaderboard.get_leaderboard("multilingual_edit_2024")
 
 # Compute Pareto frontier
-frontier = leaderboard.compute_pareto_frontier("multilingual_edit_2025")
+frontier = leaderboard.compute_pareto_frontier("multilingual_edit_2024")
 
 # Generate feedback
 feedback = leaderboard.generate_feedback(submission.submission_id)
@@ -373,8 +373,8 @@ If you use this NSN integration in your research, please cite:
 @software{nsn_limit_graph_integration,
   title={NSN Integration with LIMIT-Graph and REPAIR},
   author={AI Research Agent Team},
-  year={2025},
-  url={https://github.com/NurcholishAdam/Quantum_nsn_limit-graph_repair}
+  year={2024},
+  url={https://github.com/your-repo/quantum_integration/nsn_integration}
 }
 ```
 
