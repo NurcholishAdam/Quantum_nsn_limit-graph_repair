@@ -374,7 +374,7 @@ If you use this NSN integration in your research, please cite:
   title={NSN Integration with LIMIT-Graph and REPAIR},
   author={AI Research Agent Team},
   year={2025},
-  url={https://github.com/your-repo/quantum_integration/nsn_integration}
+  url={https://github.com/NurcholishAdam/Quantum_nsn_limit-graph_repair}
 }
 ```
 
